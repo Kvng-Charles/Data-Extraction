@@ -1,0 +1,1 @@
+This is a web scraper that scrapes the presidents of the United States of America. It gets their names, tenure and the political parties they belonged to. This information was scraped from the popular site Wikipedia.
